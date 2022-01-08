@@ -1,5 +1,5 @@
 # Presidential Results
-###### 2022 Results
+#### State Results
 [Presidential](Presidential.md) |
 [Olympia](Olympia.md) |
 [Pacifica](Pacifica.md) |
