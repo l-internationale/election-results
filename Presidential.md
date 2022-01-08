@@ -1,6 +1,6 @@
 # Presidential Results
 ###### 2022 Results
-[Presidential](Presidential Results.md)
+[Presidential](Presidential.md)
 [Olympia](Olympia.md)
 [Pacifica](Pacifica.md)
 [Lincoln](Lincoln.md)
