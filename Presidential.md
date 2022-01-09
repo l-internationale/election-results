@@ -1,5 +1,4 @@
 # Presidential Results
-<b style="background-color:#c71e1d; padding:3px 6px 3px; border-radius: 3.5px; color:white; font-size: 12px; letter-spacing:0px;vertical-align:text-bottom; font-style:normal;">LIVE</b> <b style="color: #c71e1d;">Polls Close at 7:00 p.m. ET</b>
 #### State Results
 [Presidential](Presidential.md) |
 [Olympia](Olympia.md) |
